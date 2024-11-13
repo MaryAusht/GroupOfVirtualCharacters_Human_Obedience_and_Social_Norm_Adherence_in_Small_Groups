@@ -1,7 +1,7 @@
 logType=HighQuality
 generation=G3Plus
 isLOD=false
-qualEyes=Basic
+qualEyes=Parallax
 qualHair=TwoPass
 bakeIsBaked=false
 tempHairBake=false
