@@ -8,14 +8,14 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hair_Transparency
-  m_Shader: {fileID: 4800000, guid: fdf1b756c56298643b40c91e5c358e3b, type: 3}
+  m_Shader: {fileID: 4800000, guid: 16f2b7583e367844c8199e778982ce94, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
-  m_ValidKeywords:
-  - _CLIPQUALITY_DITHERED
+  m_ValidKeywords: []
   m_InvalidKeywords:
   - _ALPHATEST_ON
   - _ALPHATOMASK_ON
+  - _CLIPQUALITY_DITHERED
   - _DISABLE_SSR_TRANSPARENT
   - _DOUBLESIDED_ON
   - _ENABLE_FOG_ON_TRANSPARENT
@@ -92,13 +92,11 @@ Material:
     - BOOLEAN_ENABLECOLOR: 0
     - _AOOccludeAll: 0
     - _AOStrength: 1
-    - _AlphaClip2: 0.666
     - _AlphaCutoff: 0.5
     - _AlphaPower: 1
     - _AlphaRemap: 0.75
     - _BaseColorStrength: 0
     - _BlendStrength: 1
-    - _ClipQuality: 1
     - _DiffuseStrength: 1
     - _EndColorStrength: 1
     - _FlowMapFlipGreen: 0
@@ -124,7 +122,7 @@ Material:
     - _SmoothnessPower: 1
     - _SpecularMix: 0.5
     - _SpecularMultiplier: 0.1959592
-    - _SpecularPowerScale: 4
+    - _SpecularPowerScale: 2
     - _SpecularShiftMax: -0.25
     - _SpecularShiftMin: -0.777
     - _Translucency: 0.25

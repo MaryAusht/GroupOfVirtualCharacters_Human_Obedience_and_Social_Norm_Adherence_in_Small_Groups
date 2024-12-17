@@ -8,14 +8,14 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Female_Angled_Transparency
-  m_Shader: {fileID: 4800000, guid: fdf1b756c56298643b40c91e5c358e3b, type: 3}
+  m_Shader: {fileID: 4800000, guid: 16f2b7583e367844c8199e778982ce94, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
-  m_ValidKeywords:
-  - _CLIPQUALITY_DITHERED
+  m_ValidKeywords: []
   m_InvalidKeywords:
   - _ALPHATEST_ON
   - _ALPHATOMASK_ON
+  - _CLIPQUALITY_DITHERED
   - _DISABLE_SSR_TRANSPARENT
   - _DOUBLESIDED_ON
   - _ENABLE_FOG_ON_TRANSPARENT
@@ -92,13 +92,11 @@ Material:
     - BOOLEAN_ENABLECOLOR: 0
     - _AOOccludeAll: 0
     - _AOStrength: 0
-    - _AlphaClip2: 0.666
     - _AlphaCutoff: 0.5
     - _AlphaPower: 1.5
     - _AlphaRemap: 1
     - _BaseColorStrength: 1
     - _BlendStrength: 0
-    - _ClipQuality: 1
     - _DiffuseStrength: 1
     - _EndColorStrength: 1
     - _FlowMapFlipGreen: 0
@@ -114,7 +112,6 @@ Material:
     - _NormalStrength: 1
     - _QueueControl: -1
     - _QueueOffset: 0
-    - _ReceiveShadows: 1
     - _RimPower: 4
     - _RimTransmissionIntensity: 0
     - _RootColorStrength: 1
@@ -124,7 +121,7 @@ Material:
     - _SmoothnessPower: 1.5
     - _SpecularMix: 0.5
     - _SpecularMultiplier: 0
-    - _SpecularPowerScale: 4
+    - _SpecularPowerScale: 2
     - _SpecularShiftMax: -0.25
     - _SpecularShiftMin: -0.25
     - _Translucency: 0.25
