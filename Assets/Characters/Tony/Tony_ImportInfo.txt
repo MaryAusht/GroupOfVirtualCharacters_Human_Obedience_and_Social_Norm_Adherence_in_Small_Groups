@@ -1,0 +1,13 @@
+logType=HighQuality
+generation=G3Plus
+isLOD=false
+qualEyes=Parallax
+qualHair=Coverage
+bakeIsBaked=false
+tempHairBake=false
+bakeCustomShaders=true
+bakeSeparatePrefab=true
+shaderFlags=406
+animationSetup=true
+animationRetargeted=1
+rigOverride=Humanoid

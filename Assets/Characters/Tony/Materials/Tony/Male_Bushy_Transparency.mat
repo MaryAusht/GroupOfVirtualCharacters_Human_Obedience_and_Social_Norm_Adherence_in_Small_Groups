@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Male_Bushy_Transparency
+  m_Shader: {fileID: 4800000, guid: 16f2b7583e367844c8199e778982ce94, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _ALPHATEST_ON
+  - _ALPHATOMASK_ON
+  - _CLIPQUALITY_DITHERED
+  - _DISABLE_SSR_TRANSPARENT
+  - _DOUBLESIDED_ON
+  - _ENABLE_FOG_ON_TRANSPARENT
+  - _ENUMCLIPQUALITY_ON_DITHER
+  - _SURFACE_TYPE_TRANSPARENT
+  - _TRANSPARENT_WRITES_MOTION_VEC
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 1
+  m_CustomRenderQueue: 2450
+  stringTagMap:
+    MotionVector: User
+  disabledShaderPasses:
+  - RayTracingPrepass
+  - MOTIONVECTORS
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BlendMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DiffuseMap:
+        m_Texture: {fileID: 2800000, guid: 7109fe07adf89354cb6b4af4aa29d229, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FlowMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _IDMap:
+        m_Texture: {fileID: 2800000, guid: dc033f8be4cc41640b31449cafde00d0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskMap:
+        m_Texture: {fileID: 2800000, guid: c789979daa5b48946b8dda21cb2d3580, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RootMap:
+        m_Texture: {fileID: 2800000, guid: 3886dfa2abc4f7744bb59cfb43042ff9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecularMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - BOOLEAN_ENABLECOLOR: 0
+    - _AOOccludeAll: 0
+    - _AOStrength: 0
+    - _AlphaCutoff: 0.5
+    - _AlphaPower: 1.5
+    - _AlphaRemap: 1
+    - _BaseColorStrength: 1
+    - _BlendStrength: 0
+    - _DiffuseStrength: 1
+    - _EndColorStrength: 0.46
+    - _FlowMapFlipGreen: 0
+    - _GlobalStrength: 1
+    - _HighlightAOverlapEnd: 0
+    - _HighlightAOverlapInvert: 0
+    - _HighlightAStrength: 1
+    - _HighlightBOverlapEnd: 0.685
+    - _HighlightBOverlapInvert: 1
+    - _HighlightBStrength: 1
+    - _HighlightBlend: 1
+    - _InvertRootMap: 1
+    - _NormalStrength: 1
+    - _QueueControl: -1
+    - _QueueOffset: 0
+    - _RimPower: 4
+    - _RimTransmissionIntensity: 6.0373836
+    - _RootColorStrength: 0.628
+    - _ShadowClip: 0.5
+    - _SmoothnessMax: 1
+    - _SmoothnessMin: 0.3588699
+    - _SmoothnessPower: 1.5
+    - _SpecularMix: 0.5
+    - _SpecularMultiplier: 0.036000002
+    - _SpecularPowerScale: 2
+    - _SpecularShiftMax: -0.25
+    - _SpecularShiftMin: -0.25
+    - _Translucency: 0.25
+    - _VertexColorStrength: 0.7
+    m_Colors:
+    - _DiffuseColor: {r: 0.99999994, g: 0.99307275, b: 0.97724736, a: 1}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissiveColor: {r: 0, g: 0, b: 0, a: 0}
+    - _EndColor: {r: 0.6710356, g: 0.5785821, b: 0.47107124, a: 1}
+    - _HighlightAColor: {r: 0.5017734, g: 0.40066284, b: 0.32507575, a: 1}
+    - _HighlightADistribution: {r: 0.5551001, g: 0.7667001, b: 0.822, a: 0}
+    - _HighlightBColor: {r: 0.99999994, g: 0.85536623, b: 0.7977377, a: 1}
+    - _HighlightBDistribution: {r: 0.10000001, g: 0.20000002, b: 0.3, a: 0}
+    - _RootColor: {r: 0.3391081, g: 0.25983334, b: 0.20689574, a: 1}
+    - _SpecularTint: {r: 1, g: 0.94147414, b: 0.8854108, a: 1}
+    - _VertexBaseColor: {r: 0.19435316, g: 0.16618572, b: 0.1318038, a: 1}
+  m_BuildTextureStacks: []
