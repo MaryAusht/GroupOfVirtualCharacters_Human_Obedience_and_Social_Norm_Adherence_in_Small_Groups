@@ -4,6 +4,11 @@
 
 Social interactions between humans and digital characters, often referred to as social agents, are becoming increasingly common. In virtual environments, users frequently navigate around these agents and may be influenced by their commands. This project is a constructor that can be used for user studies, enabling the exploration of human-agent interactions through diverse assets. It includes animated characters with different behavioral traits, such as Friendly-Submissive, Friendly-Dominant, Hostile-Dominant, Hostile-Submissive, and Neutral Non-Verbal, to study their effects on user navigation and obedience. The primary goal is to facilitate research aimed at training virtual agents in polite and socially aware behaviors.
 
+## Documentation
+
+The full project documentation is available here:  
+📄 [Download Project Documentation](./cc4_project_documentation.pdf)
+
 ## Software & Tools Used
 
 - **Unity**: 2022.3.39f1
