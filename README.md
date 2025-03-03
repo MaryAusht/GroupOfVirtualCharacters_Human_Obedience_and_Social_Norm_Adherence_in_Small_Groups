@@ -25,17 +25,20 @@ The full project documentation is available here:
 Here are the six human characters used in this project:
 
 ### Male Characters
-![Character 1](./characters/portraits/Kevin)
-![Character 2](./characters/portraits/Carl)
-![Character 3](./characters/portraits/Tony)
+![Character 1](./Assets/Characters/Portraits/Kevin.png)
+![Character 2](./Assets/Characters/Portraits/Carl.png)
+![Character 3](./Assets/Characters/Portraits/Tony.png)
 
 ### Female Characters
-![Character 4](./characters/portraits/Camila)
-![Character 5](./characters/portraits/Emi)
-![Character 6](./characters/portraits/Susane)
+![Character 4](./Assets/Characters/Portraits/Camilla.png)
+![Character 5](./Assets/Characters/Portraits/Emi.png)
+![Character 6](./Assets/Characters/Portraits/Susane.png)
 
 - **VR Office Scene**: A fully configured VR environment with a set up VR rig and locomotion (Meta All-in-One SDK)
 - **3D Assets**: Office room models, interior objects, and their textures
+  
+![Video](./Assets/Characters/Video/short_talk.mp4)
+
 - **Animations**: A collection of character behaviors categorized into "in-group" and "out-group" behaviors
 - **Audio Files**:
   - AI-generated voice files
