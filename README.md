@@ -20,6 +20,20 @@ The full project documentation is available here:
 ## Project Contents
 
 - **6 Human Characters**: (3 male, 3 female)&#x20;
+- ## Character Previews
+
+Here are the six human characters used in this project:
+
+### Male Characters
+![Character 1](./characters/portraits/Kevin)
+![Character 2](./characters/portraits/Carl)
+![Character 3](./characters/portraits/Tony)
+
+### Female Characters
+![Character 4](./characters/portraits/Camila)
+![Character 5](./characters/portraits/Emi)
+![Character 6](./characters/portraits/Susane)
+
 - **VR Office Scene**: A fully configured VR environment with a set up VR rig and locomotion (Meta All-in-One SDK)
 - **3D Assets**: Office room models, interior objects, and their textures
 - **Animations**: A collection of character behaviors categorized into "in-group" and "out-group" behaviors
