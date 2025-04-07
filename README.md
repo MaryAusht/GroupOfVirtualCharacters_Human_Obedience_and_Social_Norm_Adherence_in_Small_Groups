@@ -1,4 +1,4 @@
-# Human Obedience and Social Norm Adherence in Small Groups with Virtual Agents (HCII 2025)
+# GROUP OF VIRTUAL CHARACTERS / Human Obedience and Social Norm Adherence in Small Groups with Virtual Agents (HCII 2025)
 
 ## Abstract
 
