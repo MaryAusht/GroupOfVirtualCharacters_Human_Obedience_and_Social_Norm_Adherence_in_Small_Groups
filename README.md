@@ -7,7 +7,8 @@ Social interactions between humans and digital characters, often referred to as 
 ## Documentation
 
 The full project documentation is available here:  
-📄 [Download Project Documentation](./cc4_project_documentation.pdf)
+📄 [View Documentation (PDF)]([https://github.com/your-username/your-repo-name/blob/main/documentation.pdf?raw=true](https://github.com/MaryAusht/GroupOfVirtualCharacters_Human_Obedience_and_Social_Norm_Adherence_in_Small_Groups/blob/main/Assets/Documentation/documentation_GROUP%20OF%20VIRTUAL%20AGENTS.pdf))
+
 
 ## Software & Tools Used
 
