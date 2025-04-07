@@ -7,7 +7,7 @@ Social interactions between humans and digital characters, often referred to as 
 ## Documentation
 
 The full project documentation is available here:  
-📄 [View Documentation (PDF)](https://github.com/MaryAusht/GroupOfVirtualCharacters_Human_Obedience_and_Social_Norm_Adherence_in_Small_Groups/blob/main/Assets/Documentation/documentation_GROUP%20OF%20VIRTUAL%20AGENTS.pdf))
+📄 [View Documentation (PDF)](https://github.com/MaryAusht/GroupOfVirtualCharacters_Human_Obedience_and_Social_Norm_Adherence_in_Small_Groups/blob/main/Assets/Documentation/documentation_GROUP%20OF%20VIRTUAL%20AGENTS.pdf)
 
 
 ## Software & Tools Used
@@ -60,5 +60,13 @@ Here are the six human characters used in this project:
 3. Ensure all dependencies (CC4, iClone 8, Blender, Substance Painter) are properly configured.
 4. Run the VR scene in Unity using a Meta Quest 3 headset.
 
+
+## Previous Research / Related Works
+
+This project builds upon prior studies in the domain of human-agent interaction, social norms, and group dynamics in virtual environments:
+
+- [Social Influence in Virtual Reality: Effects of Agent Autonomy and Emotional Expressions](https://dl.acm.org/doi/10.1145/3383652.3423917)
+- [Modeling Obedience to Virtual Agents in Multi-Agent Settings](https://dl.acm.org/doi/10.1145/3613904.3642905)
+- [Investigating Group Social Norms in VR Simulations with Artificial Agents](https://dl.acm.org/doi/10.5555/3721488.3721549)
 &#x20;
 
