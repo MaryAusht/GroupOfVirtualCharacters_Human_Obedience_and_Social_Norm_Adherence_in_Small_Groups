@@ -11,6 +11,11 @@ Social interactions between humans and digital characters, often referred to as 
 The full project documentation is available here:  
 📄 [View Documentation (PDF)](https://github.com/MaryAusht/GroupOfVirtualCharacters_Human_Obedience_and_Social_Norm_Adherence_in_Small_Groups/blob/main/Assets/Documentation/documentation_GROUP%20OF%20VIRTUAL%20AGENTS.pdf)
 
+## 🎬 Promo Video
+
+Watch the promo video for this project on LinkedIn:  
+🔗 [https://www.linkedin.com/posts/marija-austa_3dmodeling-animation-reallusion-activity-7301185931338760192-Clmk](https://www.linkedin.com/posts/marija-austa_3dmodeling-animation-reallusion-activity-7301185931338760192-Clmk)
+
 
 ## Software & Tools Used
 
